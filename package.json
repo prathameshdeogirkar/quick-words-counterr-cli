@@ -1,0 +1,15 @@
+    {
+        "name": "quick-words-counterr-cli",
+        "version": "1.0.0",
+        "description": "A CLI tool to count words in a file and display counts",
+        "main": "app.js",
+        "bin": {
+            "word-counter": "./app.js"
+        },
+        "scripts": {
+            "start": "node app.js"
+        },
+        "keywords": ["word","counter","cli","file"],
+        "author": "Prathamesh",
+        "license": "MIT"
+    }
