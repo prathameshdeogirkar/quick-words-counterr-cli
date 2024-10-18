@@ -50,3 +50,7 @@ If no word is specified, the CLI will count and display all words in the file.
   fox: 1
 }
 ```
+
+
+## Publish
+[Quick Words Counter](https://www.npmjs.com/package/quick-words-counterr-cli)
